@@ -1,0 +1,146 @@
+body{
+    background-color: rgb(35, 35, 35);
+}
+#AsideField{
+    float: inline-start;
+    padding-bottom: 885px;
+    width: 190px;
+}
+/*ASIDE BTNS*/
+.AsideBtns{
+    margin-left: 60px;
+    margin-bottom: 10px;
+    margin-top: 10px;  
+    display: block; 
+}
+/*ASIDE BTNS*/
+#BRUH{
+    background-color: rgb(35, 35, 35);
+    border: none;
+}
+/*app logos*/
+#FbLogo{
+    width: 30px;
+    float: left;
+}
+#IgLogo{
+    width: 30px;
+    float: left;
+}
+#GmailLogo{
+    width: 30px;
+    float: left;
+}
+/*app logos**/
+
+#Fb{
+    display: flex;
+    font-size: 15px;
+}
+#Ig{
+    display: flex;
+    font-size: 15px;
+}
+
+/*fb link*/
+#Fb:link {
+    text-decoration: none;
+    color: black;
+  }
+#Fb:visited{
+    text-decoration: none;
+    color: black;
+}
+  #Fb:hover {
+    text-decoration: underline;
+    color: rgb(56, 56, 255);
+  }
+  
+  #Fb:active {
+    text-decoration: underline;
+    color: rgb(56, 56, 255);
+  }
+/*fb link*/
+
+/*ig link*/
+#Ig:link {
+    text-decoration: none;
+    color: rgb(144, 96, 181);
+  }
+#Ig:visited{
+    text-decoration: none;
+    color: rgb(144, 96, 181);
+}
+  #Ig:hover {
+    text-decoration: underline;
+    color: rgb(243, 189, 255);
+  }
+  
+  #Ig:active {
+    text-decoration: underline;
+    color: rgb(243, 189, 255);
+  }
+/*ig link*/
+
+/*Gmail*/
+#gmail:hover{
+color: rgb(255, 95, 95);
+}
+/*Gmail*/
+
+a:link {
+    text-decoration: none;
+    color: black;
+  }
+a:visited{
+    text-decoration: none;
+    color: black;
+}
+  a:hover {
+    text-decoration: underline;
+    color: azure;
+  }
+  
+  a:active {
+    text-decoration: underline;
+    color: azure;
+  }
+button:hover{
+    background-color: rgb(101, 101, 101);
+    border: solid rgb(255, 255, 255);
+}
+button{
+    text-align: center;
+    background-color: white;
+    font-family: "Times New Roman", Times, serif;
+    border: solid black;
+    
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+fieldset{
+    background-color: white;
+    border: solid black;
+}
+#BRUH2{
+    background-color: rgb(35, 35, 35);
+    border: none;
+    padding-left: 397px;
+}
+.EndBtns{
+    margin-left: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    display: inline;
+}
+#NextChapBtn{
+    float: right;
+}
